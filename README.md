@@ -3,6 +3,10 @@
 Budafly, an e-commerce marketplace, that enables users to navigate through, and find the desired product that they want to purchase. The app also provides a platform for users interested to sell cannabis products. 
 
 
+<a href="https://budafly-fk.herokuapp.com/">Deployed Back-End link<a>
+
+<a href="https://budafly-fk.netlify.app/">Deployed Front-End link<a>
+
 ## User Stories 
 
 <a href="https://docs.google.com/document/d/1QvQDU1f0hAWIEF8oOh2_SovxtTWsUzkuj5XgCGjwiNQ/edit">User Stories Link<a>
